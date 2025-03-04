@@ -1,0 +1,6 @@
+@ApiTestingDbFirst_HostAddress = http://localhost:5122
+
+GET {{ApiTestingDbFirst_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

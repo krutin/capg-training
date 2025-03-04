@@ -1,0 +1,126 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: skyblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+#test{
+    margin:0px;
+    color:gray;
+    font-size: small;
+  }
+
+  hr{
+    opacity: 50%;
+    
+  }
+.container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 50%; 
+    margin-top: 20px; 
+}
+
+
+
+#file-label{
+    width: 80%;
+    height: 100px;
+    margin: 0% auto;
+    border: 2px dashed #ccc;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#file-label:hover{
+cursor: pointer;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+h4{
+    font-weight: 300;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+input[type="date"],
+select {
+    width: 45%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+input[type="radio"] {
+    margin-right: 5px;
+}
+
+textarea {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+button {
+    margin-left: 42%;
+    padding: 10px 20px;
+    background-color: gray;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+
+.red {
+    color: red;
+}
+
+.gap {
+    margin-left: 20px;
+}
+
+.gap1 {
+    margin-left: 42%;
+}
+
+.gap2 {
+    margin-left: 33%;
+}
+.gap3 {
+    margin-left: 53%;
+}
+
+.gap4 {
+    margin-left: 10%;
+}
+
+.gap5 {
+    margin-left: 25%;
+}
+
+.gap6 {
+    margin-bottom: 20px;
+}

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiTestingDbFirst", "ApiTestingDbFirst\ApiTestingDbFirst.csproj", "{A733906A-5918-4D39-9DC0-D77178E3AA42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestSharpTestProject", "RestSharpTestProject\RestSharpTestProject.csproj", "{F9BD56C2-C31D-4F48-B957-4673F16BFA27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A733906A-5918-4D39-9DC0-D77178E3AA42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A733906A-5918-4D39-9DC0-D77178E3AA42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A733906A-5918-4D39-9DC0-D77178E3AA42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A733906A-5918-4D39-9DC0-D77178E3AA42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9BD56C2-C31D-4F48-B957-4673F16BFA27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9BD56C2-C31D-4F48-B957-4673F16BFA27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9BD56C2-C31D-4F48-B957-4673F16BFA27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9BD56C2-C31D-4F48-B957-4673F16BFA27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

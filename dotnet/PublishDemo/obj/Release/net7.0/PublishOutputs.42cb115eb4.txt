@@ -1,0 +1,12 @@
+/Users/krutin/Desktop/capg/dotnet/PublishDemo/obj/Release/net7.0/PubTmp/Out/PublishDemo
+/Users/krutin/Desktop/capg/dotnet/PublishDemo/obj/Release/net7.0/PubTmp/Out/appsettings.Development.json
+/Users/krutin/Desktop/capg/dotnet/PublishDemo/obj/Release/net7.0/PubTmp/Out/appsettings.json
+/Users/krutin/Desktop/capg/dotnet/PublishDemo/obj/Release/net7.0/PubTmp/Out/PublishDemo.dll
+/Users/krutin/Desktop/capg/dotnet/PublishDemo/obj/Release/net7.0/PubTmp/Out/PublishDemo.deps.json
+/Users/krutin/Desktop/capg/dotnet/PublishDemo/obj/Release/net7.0/PubTmp/Out/PublishDemo.runtimeconfig.json
+/Users/krutin/Desktop/capg/dotnet/PublishDemo/obj/Release/net7.0/PubTmp/Out/PublishDemo.pdb
+/Users/krutin/Desktop/capg/dotnet/PublishDemo/obj/Release/net7.0/PubTmp/Out/Microsoft.AspNetCore.OpenApi.dll
+/Users/krutin/Desktop/capg/dotnet/PublishDemo/obj/Release/net7.0/PubTmp/Out/Microsoft.OpenApi.dll
+/Users/krutin/Desktop/capg/dotnet/PublishDemo/obj/Release/net7.0/PubTmp/Out/Swashbuckle.AspNetCore.Swagger.dll
+/Users/krutin/Desktop/capg/dotnet/PublishDemo/obj/Release/net7.0/PubTmp/Out/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/krutin/Desktop/capg/dotnet/PublishDemo/obj/Release/net7.0/PubTmp/Out/Swashbuckle.AspNetCore.SwaggerUI.dll

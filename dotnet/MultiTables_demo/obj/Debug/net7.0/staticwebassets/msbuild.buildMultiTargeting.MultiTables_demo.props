@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/MultiTables_demo.props" />
+</Project>

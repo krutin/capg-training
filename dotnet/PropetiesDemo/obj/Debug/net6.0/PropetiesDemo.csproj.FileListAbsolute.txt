@@ -1,0 +1,14 @@
+/Users/krutin/Desktop/capg/dotnet/PropetiesDemo/bin/Debug/net6.0/PropetiesDemo
+/Users/krutin/Desktop/capg/dotnet/PropetiesDemo/bin/Debug/net6.0/PropetiesDemo.deps.json
+/Users/krutin/Desktop/capg/dotnet/PropetiesDemo/bin/Debug/net6.0/PropetiesDemo.runtimeconfig.json
+/Users/krutin/Desktop/capg/dotnet/PropetiesDemo/bin/Debug/net6.0/PropetiesDemo.dll
+/Users/krutin/Desktop/capg/dotnet/PropetiesDemo/bin/Debug/net6.0/PropetiesDemo.pdb
+/Users/krutin/Desktop/capg/dotnet/PropetiesDemo/obj/Debug/net6.0/PropetiesDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krutin/Desktop/capg/dotnet/PropetiesDemo/obj/Debug/net6.0/PropetiesDemo.AssemblyInfoInputs.cache
+/Users/krutin/Desktop/capg/dotnet/PropetiesDemo/obj/Debug/net6.0/PropetiesDemo.AssemblyInfo.cs
+/Users/krutin/Desktop/capg/dotnet/PropetiesDemo/obj/Debug/net6.0/PropetiesDemo.csproj.CoreCompileInputs.cache
+/Users/krutin/Desktop/capg/dotnet/PropetiesDemo/obj/Debug/net6.0/PropetiesDemo.dll
+/Users/krutin/Desktop/capg/dotnet/PropetiesDemo/obj/Debug/net6.0/refint/PropetiesDemo.dll
+/Users/krutin/Desktop/capg/dotnet/PropetiesDemo/obj/Debug/net6.0/PropetiesDemo.pdb
+/Users/krutin/Desktop/capg/dotnet/PropetiesDemo/obj/Debug/net6.0/PropetiesDemo.genruntimeconfig.cache
+/Users/krutin/Desktop/capg/dotnet/PropetiesDemo/obj/Debug/net6.0/ref/PropetiesDemo.dll

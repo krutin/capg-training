@@ -1,0 +1,14 @@
+/Users/krutin/Desktop/capg/dotnet/EncapsulationDemo/bin/Debug/net6.0/EncapsulationDemo
+/Users/krutin/Desktop/capg/dotnet/EncapsulationDemo/bin/Debug/net6.0/EncapsulationDemo.deps.json
+/Users/krutin/Desktop/capg/dotnet/EncapsulationDemo/bin/Debug/net6.0/EncapsulationDemo.runtimeconfig.json
+/Users/krutin/Desktop/capg/dotnet/EncapsulationDemo/bin/Debug/net6.0/EncapsulationDemo.dll
+/Users/krutin/Desktop/capg/dotnet/EncapsulationDemo/bin/Debug/net6.0/EncapsulationDemo.pdb
+/Users/krutin/Desktop/capg/dotnet/EncapsulationDemo/obj/Debug/net6.0/EncapsulationDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krutin/Desktop/capg/dotnet/EncapsulationDemo/obj/Debug/net6.0/EncapsulationDemo.AssemblyInfoInputs.cache
+/Users/krutin/Desktop/capg/dotnet/EncapsulationDemo/obj/Debug/net6.0/EncapsulationDemo.AssemblyInfo.cs
+/Users/krutin/Desktop/capg/dotnet/EncapsulationDemo/obj/Debug/net6.0/EncapsulationDemo.csproj.CoreCompileInputs.cache
+/Users/krutin/Desktop/capg/dotnet/EncapsulationDemo/obj/Debug/net6.0/EncapsulationDemo.dll
+/Users/krutin/Desktop/capg/dotnet/EncapsulationDemo/obj/Debug/net6.0/refint/EncapsulationDemo.dll
+/Users/krutin/Desktop/capg/dotnet/EncapsulationDemo/obj/Debug/net6.0/EncapsulationDemo.pdb
+/Users/krutin/Desktop/capg/dotnet/EncapsulationDemo/obj/Debug/net6.0/EncapsulationDemo.genruntimeconfig.cache
+/Users/krutin/Desktop/capg/dotnet/EncapsulationDemo/obj/Debug/net6.0/ref/EncapsulationDemo.dll

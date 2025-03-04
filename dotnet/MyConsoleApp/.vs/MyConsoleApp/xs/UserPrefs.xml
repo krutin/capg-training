@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sample1.cs">
+    <Files>
+      <File FileName="OopsDemo.cs" Line="26" Column="2" />
+      <File FileName="Sample1.cs" Line="28" Column="1" />
+      <File FileName="Program.cs" Line="19" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyConsoleApp" expanded="True" selected="True">
+            <Node name="MyConsoleApp" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace />
+  <DisabledProjects>
+    <String>Calculatorapp/Calculatorapp.csproj</String>
+  </DisabledProjects>
+</Properties>

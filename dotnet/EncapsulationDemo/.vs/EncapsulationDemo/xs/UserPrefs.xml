@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{4AC246DE-AA07-4E60-8FBB-4F45E57B280A}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EncapsulationDemo" expanded="True">
+            <Node name="EncapsulationDemo" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.EncapsulationDemo FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,56 @@
+python is a high level,general purpose,interpreted language.
+
+it is platform indipendent can run on any os.
+
+it can be used in many fields like web applications, data science, ml, ai, automation, 
+testing, big data applications, desktop software,mobile apps
+
+code compiles line by line into machine language where as java or c compile the whole code at a time.
+the code is knows as source code.
+___________________________________________________________________________
+
+applications for python:-
+
+web applications:- django,pyramid,flask,bottle
+
+desktop gui application :- Tkinter
+
+console based application 
+
+games and 3d applications
+
+mobile application
+
+scientific and numeric
+
+data science
+
+machine learning - scikit-learn and tensorFlow
+
+data analysis - matplotlib, seaborn
+
+business application
+
+___________________________________________________________________________
+
+source code -> byte code -> binary code ->output
+            |             |
+   compile using python, run program using pvm 
+     compiler,
+
+
+___________________________________________________________________________
+
+
+In python it is not possible to declare a variable/constant that cannot be changed. 
+It is ususally defined on a module level and written in all capital letters.
+ans the value can be changed.
+ ex:-
+  PI
+  TOTAL
+  MIN-VALUE
+
+___________________________________________________________________________
+
+
+

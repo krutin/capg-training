@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Job Application Form</title>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="main.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <div class="heading">
+                <h1>Job Application Form</h1>
+                <p>Please fill out the form below to Submit Your Job Application!</p>
+            </div>
+            <hr color="gray">
+        </header>
+
+        <form>
+            <label for="firstNameInput">Name<span class="red">*</span></label>
+            <div class="inline">
+                <span><input type="text" name="firstName" id="firstNameInput" placeholder="First Name" required></span>
+                <span class="gap"></span>
+                <span><input type="text" name="lastName" id="lastNameInput" placeholder="Last Name" required></span>
+                <p id="test">First name<span class="gap1"></span> Last name </p>
+            </div>
+
+            <br><br>
+
+            <div class="inline">
+                <label for="emailInput">Email<span class="red">*</span></label>
+                <span class="gap1"></span>
+                <label for="mobileInput">Mobile<span class="red">*</span></label>
+            </div>
+
+            <div class="inline">
+                <input type="email" id="emailInput" name="email" placeholder="ex:- krutinraj@gmail.com" required autocomplete="email">
+                <span class="gap"></span>
+                <input type="tel" id="mobileInput" name="mobile" placeholder="Phone number" required autocomplete="tel">
+            </div>
+            <p id="test">example@exampl.com</p>
+
+            <br>
+            <br>
+
+            <h4>
+                Gender
+                <span class="red">*</span>
+            </h4>
+            <div class="inline">
+                <input type="radio" id="male" name="gender" value="male" required>
+                <label for="male">Male</label>
+                <br>
+                <input type="radio" id="female" name="gender" value="female" required>
+                <label for="female">Female</label>
+                <br>
+                <input type="radio" id="trans" name="gender" value="trans" required>
+                <label for="trans">Transgender</label>
+                
+            </div>
+
+            <br>
+            <br>
+
+            <label for="city">Current City</label><br>
+            <select id="city" name="city">
+                <option value="">Select City</option>
+                <option value="City1">City 1</option>
+                <option value="City2">City 2</option>
+                <option value="City3">City 3</option>
+                <option value="City4">City 4</option>
+            </select>
+            <br>
+            <br>
+
+            <div class="inline">
+                <label for="positionInput">Applied Position</label>
+                <span class="gap2"></span>
+                <label for="startDateInput">Earliest Possible Start Date</label>
+                <br>
+            </div>
+
+            <div class="inline">
+                <input type="text" id="positionInput" name="applied_position">
+                <span class="gap"></span>
+                <input type="date" id="startDateInput" name="start_date">
+            </div>
+            <p id="test"><span class="gap3"></span>Date</p>
+            <br>
+            <br>
+            <br>
+
+            <div class="inline">
+                <label for="preferredInterviewDateInput">Preferred Interview Date</label>
+                <span class="gap5"></span>
+                <label for="time_slots">Time Slot</label>
+            </div>
+
+            <div class="inline">
+                <input type="date" id="preferredInterviewDateInput" name="preferred_interview_date">
+                <select id="time_slots" name="time_slots">
+                    <option value="">Select Slot</option>
+                    <option value="time_slots1">9:00AM</option>
+                    <option value="time_slots2">12:00PM</option>
+                    <option value="time_slots3">2:00PM</option>
+                    <option value="time_slots4">4:00PM</option>
+                </select>
+            </div>
+
+            <br><br>
+
+            <p><span class="gap4"></span>Upload Resume<span class="red">*</span></p>
+            <div class="upload-box" id="upload-box">
+                <label for="file-upload" id="file-label" >
+                    <i class="fa fa-cloud-upload fa-lg" id="icon"></i>
+                    <div class="drop-text">Drag and drop files here</div>
+                    <div class="drop-text" id="file-info">No file selected</div>
+                </label>
+                <input type="file" id="file-upload" class="file-input" accept=".pdf,.doc,.docx" onchange="updateFileName()" hidden>
+            </div>
+            
+            <br>
+            <footer>
+                <hr color="gray">
+                <button id="apply-button" onclick="validation(event)">Apply</button>
+            </footer>
+        </form>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,125 @@
+Operators:-
+    arthematic Operators
+    relational Operators/comparision Operators
+    logical Operatorsassignment Operators
+    bitwise Operators
+    membership Operators
+    identity operators.
+
+___________________________________________________________________________
+
+# a,g=8,"lol"
+# g=i=0
+# print(g)
+# val=g+i
+# print(f'add {val}')
+# print(f'2*3 = {2*3}')
+# print("$"*5)
+# print(f'2**3 = {2**3}')
+# print(f'2//3 = {2//3}')
+
+# a=4
+# b=9
+# c=0
+# d='p'
+# print(a<b and c and d)
+# print(not(a<b))
+# a//=2
+# print(a)
+# strr='''alpha 
+# sigma beta
+#  meta'''
+# print("sigma" in strr)
+# print("skibidi" not in strr)
+# k=2
+# f=2
+# print(k is f)
+# print(type(f))
+# o=str(k)+" "+strr
+# print(o)
+# l=7.9
+# k=7
+# m=str(l+k)
+
+# print(m)
+# print(type(m))
+# print(complex(k))
+# stw="mori jin"
+# print(tuple(stw))
+# tu=(2,"zoro")
+# print(list(tu))
+# print(str(tu))
+# f=tu[1]
+# print(f)
+
+# print("strawberry","cat",sep="$") # separator
+# print("cat",end=" ")  # to print with end 'space'
+# print("cake")
+# print("we",end="\t")
+# print("live",end="\t")
+# print("we",end="\t")
+# print("love",end="\t")
+# fname="asap rocky"
+# print("\n")
+# print("who are u ")
+# print("man....this is mfing {}".format(fname))
+# lname="yessir"
+# print("rockyyyy")
+# print(f"{lname}")
+
+# #user input without prompt
+# #name=input()
+# #print(name)
+
+# #user input w prompt
+# #um=input("enter nameee  ")
+# #print(um)
+
+# #getting input and type casting it
+# #hoi=input("smthnn")
+# #print(type(hoi))
+# #mm=int(hoi)
+# #print(type(mm))
+
+# #split
+# # emp_names=input().split(',')
+# # for e in emp_names:
+# #     print(e)
+
+
+
+# um="hhaahhaa"
+# if(um.lower()=="hhaahhaa"):
+#     print(um.upper())
+# else:
+#     print(um.capitalize())
+
+import dis
+def add(a,b):
+    s=a/b
+    return s
+
+result=add(3,4)
+print(result)
+
+dis.dis(add) #disassembly of the add fun
+
+___________________________________________________________________________
+
+
+    Operators	            Description	                                        Associativity
+1	()      	            Parentheses (Grouping)	                            Left to Right
+2	**	                    Exponentiation	                                    Right to Left
+3	+x, -x, ~x	            Unary plus, minus, bitwise NOT	                    Right to Left
+4	*, /, //, %	            Multiplication, Division, Floor Division, Modulus	Left to Right
+5	+, -	                Addition, Subtraction	                            Left to Right
+6	<<, >>	                Bitwise Shift Left, Shift Right	                    Left to Right
+7	&	                    Bitwise AND	                                        Left to Right
+8	^	                    Bitwise XOR	                                        Left to Right
+9	`	`	                Bitwise OR
+10	==, !=, >, <, >=, <=	Comparison Operators	                            Left to Right
+11	not	                    Logical NOT	                                        Right to Left
+12	and	                    Logical AND	                                        Left to Right
+13	or	                    Logical OR	                                        Left to Right
+14	if-else	                Ternary Operator	                                Right to Left
+15	`=, +=, -=, *=, /=, //=, %=, &=,	=, ^=, >>=, <<=, **=`	                Assignment Operators

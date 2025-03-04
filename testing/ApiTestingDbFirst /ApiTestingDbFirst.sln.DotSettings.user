@@ -1,0 +1,19 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3fb76199_002Db742_002D4d94_002D8de9_002De303980ee5fe/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="DeleteCategory" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::F9BD56C2-C31D-4F48-B957-4673F16BFA27::net8.0::RestSharpTestProject.CatagoriesTests.DeleteCategory&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F9BD56C2-C31D-4F48-B957-4673F16BFA27::net8.0::RestSharpTestProject.CatagoriesTests.GetCategories&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F9BD56C2-C31D-4F48-B957-4673F16BFA27::net8.0::RestSharpTestProject.CatagoriesTests.GetCategoryByid&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F9BD56C2-C31D-4F48-B957-4673F16BFA27::net8.0::RestSharpTestProject.CatagoriesTests.PostCategory&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F9BD56C2-C31D-4F48-B957-4673F16BFA27::net8.0::RestSharpTestProject.CatagoriesTests.PutCategory&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cf6cb010_002D5697_002D4e3d_002Da595_002Ddf5308563cef/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetCategories" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::F9BD56C2-C31D-4F48-B957-4673F16BFA27::net8.0::RestSharpTestProject.CatagoriesTests.GetCategories&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F9BD56C2-C31D-4F48-B957-4673F16BFA27::net8.0::RestSharpTestProject.CatagoriesTests.GetCategoryByid&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F9BD56C2-C31D-4F48-B957-4673F16BFA27::net8.0::RestSharpTestProject.CatagoriesTests.PostCategory&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F9BD56C2-C31D-4F48-B957-4673F16BFA27::net8.0::RestSharpTestProject.CatagoriesTests.PutCategory&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F9BD56C2-C31D-4F48-B957-4673F16BFA27::net8.0::RestSharpTestProject.CatagoriesTests.DeleteCategory&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

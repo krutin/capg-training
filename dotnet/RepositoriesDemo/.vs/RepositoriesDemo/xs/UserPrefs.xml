@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{0FA149ED-A61D-4C7E-9B74-08FD45F25854}|https">
+  <MonoDevelop.Ide.ItemProperties.RepositoriesDemo FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Data/AppDbContext.cs">
+    <Files>
+      <File FileName="Models/Products.cs" Line="12" Column="1" />
+      <File FileName="Data/AppDbContext.cs" Line="15" Column="1" />
+      <File FileName="Repositories/IProductRepositories.cs" Line="10" Column="2" />
+      <File FileName="Repositories/ProductRepository.cs" Line="6" Column="27" />
+      <File FileName="Controllers/EmptyClass.cs" Line="8" Column="2" />
+      <File FileName="Program.cs" Line="24" Column="2" />
+      <File FileName="appsettings.json" Line="11" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RepositoriesDemo" expanded="True">
+            <Node name="RepositoriesDemo" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

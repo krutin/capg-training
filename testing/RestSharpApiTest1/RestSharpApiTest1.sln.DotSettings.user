@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=dc7fea60_002D67bc_002D400c_002D9ccb_002Dfd87140a225c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestStatusCode" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::41083866-E08C-41B5-9027-7A8E55BE4B47::net8.0::RestSharpApiTest1.RestSharpStatusCode.TestStatusCode&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::41083866-E08C-41B5-9027-7A8E55BE4B47::net8.0::RestSharpApiTest1.RestSharpStatusCode.DataDrivenTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::41083866-E08C-41B5-9027-7A8E55BE4B47::net8.0::RestSharpApiTest1.RestSharpStatusCode.check status code for IN 110001&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::41083866-E08C-41B5-9027-7A8E55BE4B47::net8.0::RestSharpApiTest1.RestSharpStatusCode.check status code for IN 00010&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::41083866-E08C-41B5-9027-7A8E55BE4B47::net8.0::RestSharpApiTest1.ProductApiTest.Test_GetAllProducts_ShouldReturnProducts&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::41083866-E08C-41B5-9027-7A8E55BE4B47::net8.0::RestSharpApiTest1.ProductApiTest.BasicTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::41083866-E08C-41B5-9027-7A8E55BE4B47::net8.0::RestSharpApiTest1.ProductApiTest.Test_GetAllProducts&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::41083866-E08C-41B5-9027-7A8E55BE4B47::net8.0::RestSharpApiTest1.ProductApiTest.Test_GetProductById&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::41083866-E08C-41B5-9027-7A8E55BE4B47::net8.0::RestSharpApiTest1.ProductApiTest.Test_CreateProduct&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::41083866-E08C-41B5-9027-7A8E55BE4B47::net8.0::RestSharpApiTest1.ProductApiTest.Test_UpdateProduct&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::41083866-E08C-41B5-9027-7A8E55BE4B47::net8.0::RestSharpApiTest1.ProductApiTest.Test_DeleteProduct&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

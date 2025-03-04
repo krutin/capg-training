@@ -1,0 +1,7 @@
+/Users/krutin/Desktop/capg/dotnet/PublishDemo1/obj/Release/net7.0/PubTmp/Out/PublishDemo1
+/Users/krutin/Desktop/capg/dotnet/PublishDemo1/obj/Release/net7.0/PubTmp/Out/appsettings.Development.json
+/Users/krutin/Desktop/capg/dotnet/PublishDemo1/obj/Release/net7.0/PubTmp/Out/appsettings.json
+/Users/krutin/Desktop/capg/dotnet/PublishDemo1/obj/Release/net7.0/PubTmp/Out/PublishDemo1.dll
+/Users/krutin/Desktop/capg/dotnet/PublishDemo1/obj/Release/net7.0/PubTmp/Out/PublishDemo1.deps.json
+/Users/krutin/Desktop/capg/dotnet/PublishDemo1/obj/Release/net7.0/PubTmp/Out/PublishDemo1.runtimeconfig.json
+/Users/krutin/Desktop/capg/dotnet/PublishDemo1/obj/Release/net7.0/PubTmp/Out/PublishDemo1.pdb

@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Employee Registration Form</title>
+    
+    
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            background-color: #f0f2f5;
+            margin: 0;
+            padding: 20px; /* Add padding to avoid cut-off */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh; /* Change from height to min-height */
+            overflow-y: auto; /* Allow scrolling if needed */
+        }
+
+        .registration-form {
+            background: #fff;
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+            width: 350px;
+            text-align: center;
+        }
+
+        .registration-form h1 {
+            color: #333;
+            margin-bottom: 20px;
+            font-size: 22px;
+        }
+
+        .registration-form label {
+            display: block;
+            text-align: left;
+            font-weight: 500;
+            margin-bottom: 5px;
+            color: #555;
+        }
+
+        .registration-form input[type="text"],
+        .registration-form input[type="email"],
+        .registration-form input[type="date"],
+        .registration-form select {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 12px;
+            border: 1px solid #ddd;
+            border-radius: 6px;
+            outline: none;
+            font-size: 14px;
+            transition: 0.3s;
+        }
+
+        .registration-form input[type="text"]:focus,
+        .registration-form input[type="email"]:focus,
+        .registration-form input[type="date"]:focus,
+        .registration-form select:focus {
+            border-color: #28a745;
+            box-shadow: 0px 0px 5px rgba(40, 167, 69, 0.5);
+        }
+
+        .registration-form fieldset {
+            border: 1px solid #ddd;
+            border-radius: 6px;
+            padding: 10px;
+            margin-bottom: 15px;
+            text-align: left;
+        }
+
+        .registration-form fieldset legend {
+            font-weight: 600;
+            padding: 0 8px;
+            color: #333;
+        }
+
+        .registration-form input[type="radio"],
+        .registration-form input[type="checkbox"] {
+            margin-right: 7px;
+        }
+
+        .registration-form button {
+            width: 100%;
+            padding: 12px;
+            background: linear-gradient(45deg, #28a745, #218838);
+            color: #fff;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 16px;
+            font-weight: 600;
+            transition: 0.3s ease-in-out;
+        }
+
+        .registration-form button:hover {
+            background: linear-gradient(45deg, #218838, #1e7e34);
+        }
+
+        #success-message {
+            display: none;
+            padding: 15px;
+            background-color: #dff0d8;
+            color: #3c763d;
+            border-radius: 8px;
+            font-weight: 600;
+            margin-top: 20px;
+            box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1);
+            animation: fadeIn 0.5s ease-in-out;
+        }
+
+        /* Success message animation */
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: scale(0.9);
+            }
+            to {
+                opacity: 1;
+                transform: scale(1);
+            }
+        }
+
+    </style>
+
+    
+    
+    <script>
+        function submitForm(event) {
+            event.preventDefault(); // Prevent actual form submission
+
+            // Hide the form and show a success message
+            document.getElementById("registration-form").style.display = "none";
+            document.getElementById("success-message").style.display = "block";
+        }
+    </script>
+</head>
+<body>
+<div class="registration-form">
+    <h1>Employee Registration</h1>
+    <form id="registration-form" onsubmit="submitForm(event)">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required />
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required />
+
+        <label for="doj">Date of Joining:</label>
+        <input type="date" id="doj" name="doj" required />
+
+        <fieldset>
+            <legend>Gender:</legend>
+            <label>
+                <input type="radio" name="gender" value="male" required />
+                Male
+            </label>
+            <label><input type="radio" name="gender" value="female" /> Female</label>
+            <label><input type="radio" name="gender" value="other" /> Other</label>
+        </fieldset>
+
+        <label for="city">City:</label>
+        <select id="city" name="city" required>
+            <option value="">Select City</option>
+            <option value="hyderabad">Hyderabad</option>
+            <option value="coimbatore">Coimbatore</option>
+            <option value="chennai">Chennai</option>
+            <option value="bangalore">Bangalore</option>
+        </select>
+
+        <label for="designation">Designation:</label>
+        <input type="text" id="designation" name="designation" required />
+
+        <label for="skills">Skills:</label>
+        <select id="skills" name="skills" multiple required>
+            <option value="testing">Testing</option>
+            <option value="java">Java</option>
+            <option value=".net">.NET</option>
+            <option value="cloud">Cloud</option>
+        </select>
+
+        <fieldset>
+            <legend>Hobbies:</legend>
+            <label>
+                <input type="checkbox"
+                       name="hobbies"
+                       value="Reading Books" />Reading Books
+            </label>
+            <label>
+                <input type="checkbox"
+                       name="hobbies"
+                       value="Playing Chess" />Playing Chess
+            </label>
+            <label>
+                <input type="checkbox"
+                       name="hobbies"
+                       value="Dancing" />Dancing
+            </label>
+            <label>
+                <input type="checkbox"
+                       name="hobbies"
+                       value="Playing Baseball" />Playing Baseball
+            </label>
+        </fieldset>
+
+        <button type="submit">Register</button>
+    </form>
+    <div id="success-message" class="success-message">
+        🎉 Thank you for registering! 🎉
+    </div>
+</div>
+</body>
+</html>
