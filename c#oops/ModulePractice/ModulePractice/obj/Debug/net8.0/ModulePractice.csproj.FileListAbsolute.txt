@@ -1,0 +1,15 @@
+/Users/krutin/Desktop/capg/c#oops/ModulePractice/ModulePractice/bin/Debug/net8.0/ModulePractice
+/Users/krutin/Desktop/capg/c#oops/ModulePractice/ModulePractice/bin/Debug/net8.0/ModulePractice.deps.json
+/Users/krutin/Desktop/capg/c#oops/ModulePractice/ModulePractice/bin/Debug/net8.0/ModulePractice.runtimeconfig.json
+/Users/krutin/Desktop/capg/c#oops/ModulePractice/ModulePractice/bin/Debug/net8.0/ModulePractice.dll
+/Users/krutin/Desktop/capg/c#oops/ModulePractice/ModulePractice/bin/Debug/net8.0/ModulePractice.pdb
+/Users/krutin/Desktop/capg/c#oops/ModulePractice/ModulePractice/obj/Debug/net8.0/ModulePractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krutin/Desktop/capg/c#oops/ModulePractice/ModulePractice/obj/Debug/net8.0/ModulePractice.AssemblyInfoInputs.cache
+/Users/krutin/Desktop/capg/c#oops/ModulePractice/ModulePractice/obj/Debug/net8.0/ModulePractice.AssemblyInfo.cs
+/Users/krutin/Desktop/capg/c#oops/ModulePractice/ModulePractice/obj/Debug/net8.0/ModulePractice.csproj.CoreCompileInputs.cache
+/Users/krutin/Desktop/capg/c#oops/ModulePractice/ModulePractice/obj/Debug/net8.0/ModulePractice.sourcelink.json
+/Users/krutin/Desktop/capg/c#oops/ModulePractice/ModulePractice/obj/Debug/net8.0/ModulePractice.dll
+/Users/krutin/Desktop/capg/c#oops/ModulePractice/ModulePractice/obj/Debug/net8.0/refint/ModulePractice.dll
+/Users/krutin/Desktop/capg/c#oops/ModulePractice/ModulePractice/obj/Debug/net8.0/ModulePractice.pdb
+/Users/krutin/Desktop/capg/c#oops/ModulePractice/ModulePractice/obj/Debug/net8.0/ModulePractice.genruntimeconfig.cache
+/Users/krutin/Desktop/capg/c#oops/ModulePractice/ModulePractice/obj/Debug/net8.0/ref/ModulePractice.dll
