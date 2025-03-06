@@ -1,0 +1,15 @@
+/Users/krutin/Desktop/capg/c#oops/InheritancePractice/InheritancePractice/bin/Debug/net8.0/InheritancePractice
+/Users/krutin/Desktop/capg/c#oops/InheritancePractice/InheritancePractice/bin/Debug/net8.0/InheritancePractice.deps.json
+/Users/krutin/Desktop/capg/c#oops/InheritancePractice/InheritancePractice/bin/Debug/net8.0/InheritancePractice.runtimeconfig.json
+/Users/krutin/Desktop/capg/c#oops/InheritancePractice/InheritancePractice/bin/Debug/net8.0/InheritancePractice.dll
+/Users/krutin/Desktop/capg/c#oops/InheritancePractice/InheritancePractice/bin/Debug/net8.0/InheritancePractice.pdb
+/Users/krutin/Desktop/capg/c#oops/InheritancePractice/InheritancePractice/obj/Debug/net8.0/InheritancePractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krutin/Desktop/capg/c#oops/InheritancePractice/InheritancePractice/obj/Debug/net8.0/InheritancePractice.AssemblyInfoInputs.cache
+/Users/krutin/Desktop/capg/c#oops/InheritancePractice/InheritancePractice/obj/Debug/net8.0/InheritancePractice.AssemblyInfo.cs
+/Users/krutin/Desktop/capg/c#oops/InheritancePractice/InheritancePractice/obj/Debug/net8.0/InheritancePractice.csproj.CoreCompileInputs.cache
+/Users/krutin/Desktop/capg/c#oops/InheritancePractice/InheritancePractice/obj/Debug/net8.0/InheritancePractice.sourcelink.json
+/Users/krutin/Desktop/capg/c#oops/InheritancePractice/InheritancePractice/obj/Debug/net8.0/InheritancePractice.dll
+/Users/krutin/Desktop/capg/c#oops/InheritancePractice/InheritancePractice/obj/Debug/net8.0/refint/InheritancePractice.dll
+/Users/krutin/Desktop/capg/c#oops/InheritancePractice/InheritancePractice/obj/Debug/net8.0/InheritancePractice.pdb
+/Users/krutin/Desktop/capg/c#oops/InheritancePractice/InheritancePractice/obj/Debug/net8.0/InheritancePractice.genruntimeconfig.cache
+/Users/krutin/Desktop/capg/c#oops/InheritancePractice/InheritancePractice/obj/Debug/net8.0/ref/InheritancePractice.dll
