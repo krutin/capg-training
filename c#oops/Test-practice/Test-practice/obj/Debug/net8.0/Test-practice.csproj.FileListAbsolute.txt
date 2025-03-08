@@ -1,0 +1,15 @@
+/Users/krutin/Desktop/capg/c#oops/Test-practice/Test-practice/bin/Debug/net8.0/Test-practice
+/Users/krutin/Desktop/capg/c#oops/Test-practice/Test-practice/bin/Debug/net8.0/Test-practice.deps.json
+/Users/krutin/Desktop/capg/c#oops/Test-practice/Test-practice/bin/Debug/net8.0/Test-practice.runtimeconfig.json
+/Users/krutin/Desktop/capg/c#oops/Test-practice/Test-practice/bin/Debug/net8.0/Test-practice.dll
+/Users/krutin/Desktop/capg/c#oops/Test-practice/Test-practice/bin/Debug/net8.0/Test-practice.pdb
+/Users/krutin/Desktop/capg/c#oops/Test-practice/Test-practice/obj/Debug/net8.0/Test-practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krutin/Desktop/capg/c#oops/Test-practice/Test-practice/obj/Debug/net8.0/Test-practice.AssemblyInfoInputs.cache
+/Users/krutin/Desktop/capg/c#oops/Test-practice/Test-practice/obj/Debug/net8.0/Test-practice.AssemblyInfo.cs
+/Users/krutin/Desktop/capg/c#oops/Test-practice/Test-practice/obj/Debug/net8.0/Test-practice.csproj.CoreCompileInputs.cache
+/Users/krutin/Desktop/capg/c#oops/Test-practice/Test-practice/obj/Debug/net8.0/Test-practice.sourcelink.json
+/Users/krutin/Desktop/capg/c#oops/Test-practice/Test-practice/obj/Debug/net8.0/Test-practice.dll
+/Users/krutin/Desktop/capg/c#oops/Test-practice/Test-practice/obj/Debug/net8.0/refint/Test-practice.dll
+/Users/krutin/Desktop/capg/c#oops/Test-practice/Test-practice/obj/Debug/net8.0/Test-practice.pdb
+/Users/krutin/Desktop/capg/c#oops/Test-practice/Test-practice/obj/Debug/net8.0/Test-practice.genruntimeconfig.cache
+/Users/krutin/Desktop/capg/c#oops/Test-practice/Test-practice/obj/Debug/net8.0/ref/Test-practice.dll
